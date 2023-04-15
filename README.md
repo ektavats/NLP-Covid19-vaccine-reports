@@ -33,4 +33,4 @@ For ScispaCy (Windows):  pip install scispacy
 
 Ekta Vats <br>
 Centre for Digital Humanities, Department of ALM, Uppsala University <br>
-ekta.vats@abm.uu.se <br>
+ektavats@gmail.com <br>
